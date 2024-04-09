@@ -5,7 +5,9 @@
 ## 👋 About Me
 
 - 👨‍💻 All of my projects are available at **[here](https://github.com/NNNNNguyennnnn?tab=repositories)**
-- ✉️ You can contact me at [lop97tannguyen.ntk@gmail.com](mailto:lop97tannguyen.ntk@gmail.com)
+- ✉️ You can contact me at
+	+ Gmail (mailto:lop97tannguyen.ntk@gmail.com)
+ 	+ Facebook (https://www.facebook.com/konstan.79/)
 
 ## 🏃‍♂️ Github Streak
 
