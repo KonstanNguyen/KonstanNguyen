@@ -4,23 +4,23 @@
 
 ## 👋 About Me
 
-- 👨‍💻 All of my projects are available at **[here](https://github.com/NNNNNguyennnnn?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/KonstanNguyen?tab=repositories)**
 - ✉️ You can contact me at
 	+ [Gmail](mailto:lop97tannguyen.ntk@gmail.com)
  	+ [Facebook](https://www.facebook.com/konstan.79/)
 
 ## 🏃‍♂️ Github Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NNNNNguyennnnn&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KonstanNguyen&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 🌟 Github Stats
 
   <br/>
-    <a href="https://github.com/NNNNNguyennnnn"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=NNNNNguyennnnn&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-	<a href="https://github.com/NNNNNguyennnnn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNNNNguyennnnn&hide=Less&layout=compact&theme=codeSTACKr&card_width=420" height="195" alt="nickLan" /></a>
+    <a href="https://github.com/KonstanNguyen"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=KonstanNguyen&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+	<a href="https://github.com/KonstanNguyen"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstanNguyen&hide=Less&layout=compact&theme=codeSTACKr&card_width=420" height="195" alt="nickLan" /></a>
 
   <br/>
 
 ## Github Visitors
 
-[![Top Langs](https://profile-counter.glitch.me/NNNNNguyennnnn/count.svg)](https://github.com/NNNNNguyennnnn)
+[![Top Langs](https://profile-counter.glitch.me/KonstanNguyen/count.svg)](https://github.com/KonstanNguyen)
