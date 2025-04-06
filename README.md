@@ -2,7 +2,7 @@
 
 - Hi ! My name is Nguyen Tan Nguyen, I come from Cam Ranh, Khanh Hoa.
 
-- I'm a third year undergraduate from [Posts and Telecommunications Institute of Technology, Ho Chi Minh City](https://ptithcm.edu.vn/)
+- I'm a final year undergraduate from [Posts and Telecommunications Institute of Technology, Ho Chi Minh City](https://ptithcm.edu.vn/)
 
 - Nice to meet you and thank you for being here.
 
