@@ -15,7 +15,7 @@
 
 ## 🏃‍♂️ Github Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KonstanNguyen&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KonstanNguyen&theme=radical)](https://git.io/streak-stats)
 
 ## 🌟 Github Stats
 
